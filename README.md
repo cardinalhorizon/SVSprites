@@ -73,7 +73,7 @@ Pull requests without such evidence won't be merged. This requirement exists to 
 
 Licensed under [CC BY-SA 4.0](LICENSE). Adaptations must be shared under the same license.
 
-**Authorship.** All icon artwork in `icons/` was hand-designed by Taylor Broad. It is original, copyrighted work, not public domain and not AI-generated. An AI coding assistant (Claude Code) was used only for repository tooling and for committing and pushing; it did not create the artwork, and its involvement does not affect the copyright or license of the icons.
+**Authorship.** All icon artwork in `icons/` was designed by humans. It is original, copyrighted work, not public domain and not AI-generated. AI tools may have been used to help manage this repository (tooling, commits, and pushes). Where such tools attribute themselves, for example in commit metadata, that attribution does not reflect who created the artwork, and it does not affect the copyright or license of the icons.
 
 **Attribution on maps.** When these icons are displayed in a map, credit them in the map's attribution/copyright notice, for example:
 
