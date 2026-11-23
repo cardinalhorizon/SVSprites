@@ -19,7 +19,7 @@ Each icon is a 32×32 SVG in `icons/`. The build packs them into a sprite sheet 
 Install from npm, or serve the `dist/` files from any static host/CDN:
 
 ```sh
-npm install @simvector/sv-sprites
+npm install @simvector/sprites
 ```
 
 Point your style at the sprite **base URL without extension**. MapLibre appends `.json`, `.png`, and `@2x` automatically:
