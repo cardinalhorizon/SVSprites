@@ -67,15 +67,13 @@ Contributions are very welcome! This pack is human-made, and we'd like to keep i
 - screenshots or a screen recording of the design process, or
 - earlier sketches, drafts, or iterations.
 
-Pull requests without such evidence won't be merged. By contributing, you agree that your icons are released under the same [CC BY-SA 4.0](LICENSE) license as the rest of the pack.
+Pull requests without such evidence won't be merged. This requirement exists to keep the authorship of every icon unambiguous; see the [US Copyright Office's AI guidance](https://www.copyright.gov/ai/) for background. By contributing, you agree that your icons are released under the same [CC BY-SA 4.0](LICENSE) license as the rest of the pack.
 
 ## License and attribution
 
 Licensed under [CC BY-SA 4.0](LICENSE). Adaptations must be shared under the same license.
 
 **Authorship.** All icon artwork in `icons/` was hand-designed by Taylor Broad. It is original, copyrighted work, not public domain and not AI-generated. An AI coding assistant (Claude Code) was used only for repository tooling and for committing and pushing; it did not create the artwork, and its involvement does not affect the copyright or license of the icons.
-
-This policy exists to keep authorship unambiguous. See the [US Copyright Office's AI guidance](https://www.copyright.gov/ai/) for background.
 
 **Attribution on maps.** When these icons are displayed in a map, credit them in the map's attribution/copyright notice, for example:
 
