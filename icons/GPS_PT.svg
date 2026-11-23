@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-32,-32)">
+        <rect id="GPS_PT" x="32" y="32" width="32" height="32" style="fill:none;"/>
+        <g id="GPS_PT1" serif:id="GPS_PT">
+            <path d="M48,36C48.608,42.228 53.772,47.392 60,48C53.772,48.608 48.608,53.772 48,60C47.392,53.772 42.228,48.608 36,48C42.228,47.392 47.392,42.228 48,36ZM48,41.253C46.538,44.147 44.147,46.538 41.253,48C44.147,49.462 46.538,51.853 48,54.747C49.462,51.853 51.853,49.462 54.747,48C51.853,46.538 49.462,44.147 48,41.253Z" style="fill:none;stroke:rgb(51,51,51);stroke-width:2px;"/>
+            <path d="M48,36C48.608,42.228 53.772,47.392 60,48C53.772,48.608 48.608,53.772 48,60C47.392,53.772 42.228,48.608 36,48C42.228,47.392 47.392,42.228 48,36ZM48,41.253C46.538,44.147 44.147,46.538 41.253,48C44.147,49.462 46.538,51.853 48,54.747C49.462,51.853 51.853,49.462 54.747,48C51.853,46.538 49.462,44.147 48,41.253Z" style="fill:rgb(168,168,169);"/>
+        </g>
+    </g>
+</svg>

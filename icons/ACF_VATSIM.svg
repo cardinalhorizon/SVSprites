@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-64,-32)">
+        <rect id="ACF_VATSIM" x="64" y="32" width="32" height="32" style="fill:none;"/>
+        <g id="ACF_VATSIM1" serif:id="ACF_VATSIM">
+            <g transform="matrix(0.217134,-7.40149e-17,-1.45717e-16,0.217134,-48.2174,23.7387)">
+                <path d="M590.5,51.24L636,167L590.5,151.939L545,167L590.5,51.24Z" style="fill:rgb(49,255,135);"/>
+                <path d="M590.5,51.24L636,167L590.5,151.939L545,167L590.5,51.24ZM590.5,63.829L552.881,159.54L590.5,147.088L628.119,159.54L590.5,63.829Z" style="fill:rgb(20,82,46);"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,156 @@
+{
+  "ACF_SV": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 392,
+    "y": 0
+  },
+  "ACF_VATSIM": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 0,
+    "y": 320
+  },
+  "APT_CLSD": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 0,
+    "y": 384
+  },
+  "APT_CTL_F": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 0,
+    "y": 448
+  },
+  "APT_NC_F": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 64,
+    "y": 320
+  },
+  "APT_NC_SF": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 64,
+    "y": 384
+  },
+  "APT_PVT": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 64,
+    "y": 448
+  },
+  "BP": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 128,
+    "y": 64
+  },
+  "DME": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 192,
+    "y": 64
+  },
+  "DP": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 256,
+    "y": 64
+  },
+  "DP_MAND": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 320,
+    "y": 64
+  },
+  "GPS_PT": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 384,
+    "y": 64
+  },
+  "HPT_CTL": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 448,
+    "y": 64
+  },
+  "HPT_NC": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 128,
+    "y": 128
+  },
+  "LOC": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 392,
+    "x": 0,
+    "y": 0
+  },
+  "NDB": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 64
+  },
+  "NDB_DME": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 192
+  },
+  "SPT_NC": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 192,
+    "y": 128
+  },
+  "SPT_NC_F": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 256,
+    "y": 128
+  },
+  "VOR": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 320,
+    "y": 128
+  },
+  "VORTAC": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 384,
+    "y": 128
+  },
+  "VOR_DME": {
+    "height": 64,
+    "pixelRatio": 2,
+    "width": 64,
+    "x": 448,
+    "y": 128
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "@simvector/sv-sprites",
+  "version": "1.0.0",
+  "description": "Custom MapLibre sprite library for aviation and mapping",
+  "main": "dist/sprite.json",
+  "files": [
+    "dist/",
+    "icons/",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "mkdir -p dist && spreet --unique icons/ dist/sprite && spreet --unique --retina icons/ dist/sprite@2x",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardinalhorizon/SVSprites.git"
+  },
+  "keywords": [
+    "maplibre",
+    "mapbox-gl",
+    "sprites",
+    "gis",
+    "map-icons"
+  ],
+  "license": "CC-BY-SA-4.0"
+}
