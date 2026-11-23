@@ -75,6 +75,8 @@ Licensed under [CC BY-SA 4.0](LICENSE). Adaptations must be shared under the sam
 
 **Authorship.** All icon artwork in `icons/` was hand-designed by Taylor Broad. It is original, copyrighted work, not public domain and not AI-generated. An AI coding assistant (Claude Code) was used only for repository tooling and for committing and pushing; it did not create the artwork, and its involvement does not affect the copyright or license of the icons.
 
+This policy exists to keep authorship unambiguous. See the [US Copyright Office's AI guidance](https://www.copyright.gov/ai/) for background.
+
 **Attribution on maps.** When these icons are displayed in a map, credit them in the map's attribution/copyright notice, for example:
 
 ```
